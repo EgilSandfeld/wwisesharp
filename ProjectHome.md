@@ -1,0 +1,2 @@
+Wwise is a famous audio engine. The main problem when you are inside a .NET environement (XNA included) is that there is no C# version of the Wwise SDK.
+WwiseSharp is a C++ Lib, contained by a C++/CLR Wrapper DLL. It allows Wwise functionality inside .NET (VB.Net, C#, XNA etc...).
